@@ -41,3 +41,6 @@ next-env.d.ts
 .env
 
 /media
+
+# sqlite db
+ai-document-outline-generator.db
