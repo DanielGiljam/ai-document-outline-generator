@@ -1,8 +1,9 @@
 {
   "name": "ai-document-outline-generator",
-  "version": "1.0.0",
-  "description": "A blank template to get started with Payload 3.0",
+  "version": "0.0.0",
+  "description": "AI-powered UI which generates document outline for user after asking user a series of increasingly specific questions about what they plan on writing a document about.",
   "license": "MIT",
+  "private": true,
   "type": "module",
   "scripts": {
     "build": "cross-env NODE_OPTIONS=--no-deprecation next build",
