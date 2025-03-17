@@ -2,8 +2,9 @@ import React from 'react'
 import './styles.css'
 
 export const metadata = {
-  description: 'A blank template using Payload in a Next.js app.',
-  title: 'Payload Blank Template',
+  description:
+    'AI-powered UI which generates document outline for user after asking user a series of increasingly specific questions about what they plan on writing a document about.',
+  title: 'AI document outline generator',
 }
 
 export default async function RootLayout(props: { children: React.ReactNode }) {
