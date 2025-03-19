@@ -12,6 +12,16 @@ export const Documents: CollectionConfig = {
       name: 'name',
     },
     {
+      type: 'ui',
+      name: 'ai-document-outline-generator',
+      admin: {
+        components: {
+          Field: '@/components/AiDocumentOutlineGenerator',
+        },
+        disableListColumn: true,
+      },
+    },
+    {
       type: 'richText',
       name: 'content',
       editor: lexicalEditor({
