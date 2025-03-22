@@ -4,7 +4,7 @@ AI-powered UI which generates document outline for user after asking user a seri
 
 ## Getting started
 
-Pre-requisites: [Node.js](https://nodejs.org) and [PNPM](https://pnpm.io) (preferably via [Corepack](https://pnpm.io/installation#using-corepack)).
+Pre-requisites: [Node.js](https://nodejs.org) and [PNPM](https://pnpm.io).
 
 1. Clone repo
 
