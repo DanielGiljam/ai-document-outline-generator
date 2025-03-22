@@ -8,20 +8,22 @@ Pre-requisites: [Node.js](https://nodejs.org) and [PNPM](https://pnpm.io) (prefe
 
 1. Clone repo
 
-2. Install dependencies
+2. Copy `.env.example` as `.env` and replace `GOOGLE_GENERATIVE_AI_API_KEY` with [your actual API key](https://aistudio.google.com).
+
+3. Install dependencies
 
    ```sh
    pnpm install
    ```
 
-3. Run local dev server
+4. Run local dev server
 
    ```sh
    pnpm dev
    ```
 
-4. Open up Payload admin UI in web browser ([http://localhost:3000/admin](http://localhost:3000/admin) by default)
+5. Open up Payload admin UI in web browser ([http://localhost:3000/admin](http://localhost:3000/admin) by default)
 
-5. Select "Documents" —> "Create new"
+6. Select "Documents" —> "Create new"
 
-6. Try out the AI document outline generator
+7. Try out the AI document outline generator
