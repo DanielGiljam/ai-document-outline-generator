@@ -2,6 +2,8 @@
 
 AI-powered UI which generates document outline for user after asking user a series of increasingly specific questions about what they plan on writing a document about.
 
+![demo](demo.gif)
+
 ## Getting started
 
 Pre-requisites: [Node.js](https://nodejs.org) and [PNPM](https://pnpm.io).
